@@ -1,4 +1,16 @@
-.gh_username {
-  width: 30px;
-  border-radius: 50%;
+
+#team{
+    height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  background-image: linear-gradient(0deg, white 50%, #F4F4F4 50%);
+  img {
+    width: 150px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+
 }
+}
+
+
